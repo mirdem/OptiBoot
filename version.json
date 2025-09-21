@@ -1,4 +1,5 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/kullanici/myapp/releases/latest/download/myapp.zip"
+  "Version": "1.0.0",
+  "DownloadUrl": "https://github.com/kullaniciadi/depoadi/releases/download/v2.0.0/MyAppSetup.exe",
+  "ReleaseNotes": "Yeni özellikler ve hata düzeltmeleri eklendi"
 }
