@@ -19,6 +19,7 @@
 > I'm looking forward to your feedback!
 
 
+> App Status: Beta
 
 ### Select Screen
 ![Select Screen](https://mirdem.wordpress.com/wp-content/uploads/2025/10/selectscreen.png)
