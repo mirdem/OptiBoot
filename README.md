@@ -11,7 +11,7 @@
 ### Task Schuelder
 ### Sensors
 
-
+### NOTE: .NET Core 8 must be installed.
 
 
 
