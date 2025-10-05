@@ -1,17 +1,22 @@
 "A lightweight PC utility that lets you easily manage startup applications, control system services, and view detailed hardware information—all in one place."
 
-### Features
-
-### Manage Startup App
-### Manage Services
-### Manage Windows and user Process
-### Show Hardware information
-### CPU, GPU, Memory Monitoring
-### Disk Manager
-### Task Schuelder
-### Sensors
-
-### NOTE: .NET Core 8 must be installed.
+> **OptiBoot — Startup Management and Hardware Information from a Single Screen**
+>
+> Tired of opening multiple tools to close startup applications, check system services, and view hardware information in Windows? > Here's what **OptiBoot** offers you all in one tool:
+>
+> ✅ Turn on/off startup applications <br>
+> ✅ Manage services <br>
+> ✅ Show CPU / GPU / RAM / Disk / Sensor information <br>
+>
+> ✔️ Lightweight, modern design <br>
+> ✔️ Works with .NET Core 8 <br>
+> ✔️ Open source (GPLv3 license)
+>
+> Download / View code / Contribute: <br>
+> GitHub: github.com/mirdem/OptiBoot <br>
+> SourceForge: sourceforge.net/projects/optiboot/
+>
+> I'm looking forward to your feedback!
 
 
 
